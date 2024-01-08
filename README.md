@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mahfuz91
-- 👀 I’m interested in data analysis,science,architecture and engineering
-- 🌱 I’m currently learning data engineering
-- 💞️ I’m looking to collaborate on data engineering project
+- 👋 Hi, I’m Muhammad Mahfuz
+- 👀 I’m interested in data analysis, ML application, and software development
+- 🌱 I’m currently learning real time ML application
+- 💞️ I’m looking to collaborate on any ML project
 - 📫 How to reach me muhmd.mahfuz@gmail.com
 
 <!---
